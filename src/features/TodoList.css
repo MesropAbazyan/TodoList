@@ -1,0 +1,17 @@
+.TodoList {
+  width: 300px;
+  background-color: beige;
+  text-align: left;
+  margin-top: 5px;
+}
+
+.TodoList span {
+  font-size: 20px;
+}
+
+.TodoList button {
+  background: transparent;
+  border: transparent;
+  float: right;
+  margin-right: 5px;
+}

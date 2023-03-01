@@ -1,0 +1,20 @@
+.TodoForm {
+  width: 300px;
+  height: 40px;
+  border-bottom: 1px rgb(177, 177, 177) solid;
+}
+  
+.TodoForm input {
+  width: 235px;
+  height: 36px;
+  background: wheat;
+  border: transparent;
+  padding-left: 20px;
+}
+
+.TodoForm button {
+  width: 43px;
+  height: 40px;
+  background-color: rgb(177, 177, 177);
+  border: transparent;
+}

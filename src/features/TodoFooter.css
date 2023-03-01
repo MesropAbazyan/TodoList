@@ -1,0 +1,21 @@
+.TodoFooter {
+  width: 300px;
+  height: 36px;
+  background-color: beige;
+  text-align: left;
+  margin-top: -8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.TodoFooter div {
+  padding: 7px;
+}
+
+.TodoFooter button {
+  font-size: 15px;
+  background-color: rgb(177, 177, 177);
+  border: transparent;
+  border-radius: 3px;
+  margin: 7px;
+}
