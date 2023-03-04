@@ -17,7 +17,7 @@ export default function TodoForm({onAdd}) {
                 maxLength='20'
                 onChange={(evt) => setText(evt.target.value)}
             />
-            <button onClick={(evt) => {}}>Add</button>
+            <button>Add</button>
         </form>
     );
 }
